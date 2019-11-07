@@ -1,0 +1,8 @@
+127.0.0.1 - - [30/Oct/2019:11:51:11 +0800] "POST /user/regist HTTP/1.1" 200 40 http-bio-8081-exec-1 9108
+0:0:0:0:0:0:0:1 - - [30/Oct/2019:15:05:43 +0800] "GET / HTTP/1.1" 200 57 http-bio-8081-exec-2 3463
+0:0:0:0:0:0:0:1 - - [30/Oct/2019:15:05:44 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8081-exec-4 135
+192.168.43.129 - - [30/Oct/2019:15:06:57 +0800] "GET / HTTP/1.1" 200 57 http-bio-8081-exec-6 8
+192.168.43.129 - - [30/Oct/2019:15:06:57 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8081-exec-8 6
+192.168.43.96 - - [30/Oct/2019:15:13:58 +0800] "POST /user/regist HTTP/1.1" 200 40 http-bio-8081-exec-10 582
+192.168.43.96 - - [30/Oct/2019:15:14:20 +0800] "POST /user/regist HTTP/1.1" 200 40 http-bio-8081-exec-10 72
+192.168.43.96 - - [30/Oct/2019:15:14:29 +0800] "POST /user/regist HTTP/1.1" 200 40 http-bio-8081-exec-10 36

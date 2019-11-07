@@ -1,0 +1,11 @@
+com\yangling\mapper\UserMapper.class
+com\yangling\controller\userControllor.class
+com\yangling\pojo\User.class
+com\yangling\utils\UUIDUtils.class
+com\yangling\pojo\Result.class
+com\yangling\pojo\UserExample.class
+com\yangling\pojo\UserExample$Criterion.class
+com\yangling\pojo\UserExample$Criteria.class
+com\yangling\service\impl\UserServiceImpl.class
+com\yangling\service\UserService.class
+com\yangling\pojo\UserExample$GeneratedCriteria.class
